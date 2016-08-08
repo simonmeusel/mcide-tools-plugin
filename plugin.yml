@@ -1,0 +1,9 @@
+name: McIDE Tools
+version: 1.0
+main: de.simonmeusel.mcide.tools.Plugin
+
+commands:
+  getcommands:
+    description: Gets the commands of the current WorldEdit selection (Requires WorldEdit)
+    permission: mcide.tools.getcommands
+    usage: As Player /getcommands [chat|gist.github|book]
