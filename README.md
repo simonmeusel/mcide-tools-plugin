@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/simonmeusel/mcide-tools-plugin.png?label=ready&title=Ready)](https://waffle.io/simonmeusel/mcide-tools-plugin)
 # mcide-tools-plugin
 McIDE tools plugin
 
