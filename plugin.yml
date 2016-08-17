@@ -3,6 +3,10 @@ version: 1.0
 main: de.simonmeusel.mcide.tools.Plugin
 
 commands:
+  getcinematic:
+    description: Captures Cinematic
+    permission: mcide.tools.getcinematic
+    usage: As Player /getcinematic <ticks> <targetSelector> [offsetTicks] [gist.github|chat|file]
   getcommands:
     description: Gets the commands of the current WorldEdit selection (Requires WorldEdit)
     permission: mcide.tools.getcommands
