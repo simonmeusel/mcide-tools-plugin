@@ -1,5 +1,5 @@
 # McIDE tools plugin
-[![Stories in Ready](https://badge.waffle.io/simonmeusel/mcide-tools-plugin.png?label=ready&title=Ready)](https://waffle.io/simonmeusel/mcide-tools-plugin)
+[![Website](https://img.shields.io/badge/website-simonmeusel.github.io-lightgrey.svg)](https://simonmeusel.github.io/mcide/)
 
 ## Installaltion
 1. Download the jar file from [here](https://github.com/simonmeusel/mcide-tools-plugin/releases)
