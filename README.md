@@ -1,6 +1,8 @@
 # McIDE tools plugin
 [![Website](https://img.shields.io/badge/website-simonmeusel.github.io-lightgrey.svg)](https://simonmeusel.github.io/mcide/)
 
+Used to create cinematics.
+
 ## Installaltion
 1. Download the jar file from [here](https://github.com/simonmeusel/mcide-tools-plugin/releases)
 2. Put in into the plugins folder of your Bukkit/spigot server
